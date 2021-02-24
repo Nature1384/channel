@@ -1,5 +1,6 @@
-{ "day":"sunday",
-  "id":12,
-  "temp":23.68 
+{ "data":
+ ["day":"sunday",
+          "id":12,
+          "temp":23.68 ]
 }
 
