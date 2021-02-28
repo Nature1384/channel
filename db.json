@@ -2,9 +2,16 @@
           {"day":"sunday",
           "id":12,
           "temp":23.68},
-  "spreadsheet":
+  "spreadsheet":[
            {"date":"26-Feb-2021",
-           "water_consumed":20}
+           "water_consumed":20},
+           {"date":"27-Feb-2021",
+           "water_consumed":30},
+           {"date":"28-Feb-2021",
+           "water_consumed":40},
+           {"date":"01-March-2021",
+           "water_consumed":50}
+           ]
           
 }
 
