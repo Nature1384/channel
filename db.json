@@ -1,10 +1,10 @@
-{ "data":
+{ "data":[
           {"day":"sunday",
           "id":12,
-          "temp":23.68}
+          "temp":23.68}]
   "spreadsheet":
-          {"date":"26-Feb-2021",
-           "water_consumed":20}
+         [ {"date":"26-Feb-2021",
+           "water_consumed":20}]
           
 }
 
