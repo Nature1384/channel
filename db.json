@@ -4,12 +4,16 @@
           "temp":23.68},
   "spreadsheet":[
            {"date":"26-Feb-2021",
-           "water_consumed":20},
+            "time":"12:37",
+            "water_consumed":20},
            {"date":"27-Feb-2021",
+            "time":"12:40",
            "water_consumed":30},
            {"date":"28-Feb-2021",
+            "time":"12:52",
            "water_consumed":40},
            {"date":"01-March-2021",
+            "time":"12:55",
            "water_consumed":50}
            ]
           
