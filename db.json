@@ -30,7 +30,15 @@
              {"date":"03-03-2021",
             "time":"12:37",
             "water_consumed":100}
-           ]
+           ],
+ water:[
+            {"date":"02-03-2021",
+            "time":"12:26",
+            "water_consumed":90},
+             {"date":"03-03-2021",
+            "time":"12:37",
+            "water_consumed":100}
+           
           
 }
 
