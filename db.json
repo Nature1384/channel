@@ -37,7 +37,26 @@
              {"date":"03-03-2021",
             "time":"12:37",
             "water_consumed":100}],
- "epoch":[1615939200,1616025599,1614556800,1640995199,1609459200]
+ "epoch":[1615939200,1616025599,1614556800,1640995199,1609459200],
+ "water_consumption":[
+           { "date_time":1615939200,
+            "water_consumed":20},
+           {"date_time":1616025599,
+           "water_consumed":30},
+           {"date_time":1614556800,
+           "water_consumed":40},
+           {"date_time":1640995199
+           "water_consumed":50},
+             {"date_time":1609459200,
+            "water_consumed":60},
+             {"date_time":1618790400,
+            "water_consumed":70},
+             {"date_time":1618876799,
+            "water_consumed":80},
+             {"date_time":1621382400,
+            "water_consumed":90},
+             {"date_time":1621468799,
+            "water_consumed":100}]
           
 }
 
